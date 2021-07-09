@@ -8,3 +8,9 @@ c) citation_edges.csv - The edgelist for which includes the citation relationshi
 
 # Dataset Description
 
+|Dataset         |No of Papers|No of Citation Relationships|
+|----------------|------------|----------------------------|
+|IS (AMiner)     |    31225   |           76458            |
+|Physics (AMiner)|    10669   |           32368            | 
+|IS (WoS)        |    46502   |           126843           |
+|Physics (WoS)   |    29601   |           96609            |
